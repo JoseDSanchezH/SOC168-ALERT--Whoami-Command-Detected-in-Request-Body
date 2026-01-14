@@ -143,3 +143,13 @@ Command keywords (whoami, ls, cat, uname)
 Suspicious POST parameters (e.g., c=)
 
 Enable rate-limiting and bot detection.
+
+
+
+## 🔗 Resources
+
+
+VirusTotal: https://www.virustotal.com/gui/ip-address/61.177.172.87/details
+
+
+AlienVault: https://otx.alienvault.com/indicator/ip/61.177.172.87
